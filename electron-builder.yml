@@ -1,0 +1,6 @@
+appId: com.mute.tool
+productName: 视频消音工具
+win:
+  target: nsis
+files:
+  - "**/*"
